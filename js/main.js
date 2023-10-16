@@ -6,7 +6,7 @@ oldgreeting.greet()
 
 function basicHaiku()
 {
-    return ["Ik ben depressief","Jaren al geen vrouw gezien","Ik ben zo alleen"]
+    return ["Ik rom dep ik sief","Wat ren het geen van ge les","Ik wil zo niet leen"]
 }
 //zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
 
